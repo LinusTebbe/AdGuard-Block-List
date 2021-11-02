@@ -1,0 +1,7 @@
+#sentry
+browser.sentry-cdn.com
+app.getsentry.com
+
+#bugsnag
+api.bugsnag.com
+app.bugsnag.com
