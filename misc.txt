@@ -9,3 +9,12 @@ wustat.windows.com
 diagnostics.meethue.com
 test.huedatastore.com
 dcp.dc1.philips.com
+
+#oem tracking
+appmetrica.yandex.com
+yandexadexchange.net
+analytics.oneplus.cn
+click.oneplus.cn
+ads.facebook.com
+stat.xiaomi.com
+smetrics.samsung.com
