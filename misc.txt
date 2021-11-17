@@ -19,3 +19,6 @@ click.oneplus.cn
 ads.facebook.com
 stat.xiaomi.com
 smetrics.samsung.com
+
+#analytics
+tr.outbrain.com
