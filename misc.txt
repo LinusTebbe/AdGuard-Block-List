@@ -6,6 +6,7 @@
 wustat.windows.com
 
 #philips hue
+diag.meethue.com
 diagnostics.meethue.com
 diagnostics.huedatastore.com
 test.huedatastore.com
