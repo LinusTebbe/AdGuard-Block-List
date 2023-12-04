@@ -6,7 +6,7 @@
 wustat.windows.com
 
 #philips hue
-diag.meethue.com
+127.0.0.1 diag.meethue.com
 diagnostics.meethue.com
 diagnostics.huedatastore.com
 test.huedatastore.com
