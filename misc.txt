@@ -12,6 +12,9 @@ diagnostics.huedatastore.com
 test.huedatastore.com
 dcp.dc1.philips.com
 
+#nanoleaf
+daemon.nanoleaf.me
+
 #oem tracking
 appmetrica.yandex.com
 yandexadexchange.net
